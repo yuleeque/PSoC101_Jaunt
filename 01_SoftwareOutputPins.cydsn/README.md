@@ -1,3 +1,3 @@
 demo
 
-![demo](01_SoftwareOutputPins.mp4)
+![demo](01_DEMO.gif)
