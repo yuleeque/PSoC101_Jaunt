@@ -165,9 +165,53 @@
 <VisibleNodeIds>
 <v>Workspace01</v>
 <v>Workspace01\01_SoftwareOutputPins</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\CyBootAsmKeil.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\CyDmac.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\CyFlash.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\CyLib.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\cymem.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\cyPm.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\CySpc.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\cyutils.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\KeilStart.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\main.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\Pin_ONE.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\Pin_TWO.lst</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\01_SoftwareOutputPins.elf</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\01_SoftwareOutputPins.hex</v>
+<v>Workspace01\01_SoftwareOutputPins\DP8051\DP8051_Keil_951\Debug\01_SoftwareOutputPins.map</v>
+<v>Workspace01\01_SoftwareOutputPins\01_SoftwareOutputPins.gpdsc</v>
 <v>Workspace01\01_SoftwareOutputPins\01_SoftwareOutputPins.rpt</v>
 <v>Workspace01\01_SoftwareOutputPins\01_SoftwareOutputPins_timing.html</v>
 <v>Workspace01\02_SoftwareInputPins</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\CyBootAsmKeil.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\CyDmac.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\CyFlash.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\CyLib.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\cymem.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\cyPm.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\CySpc.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\cyutils.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\KeilStart.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\main.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\Pin_RED.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\Listing Files\Pin_SW2.lst</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\02_SoftwareInputPins.elf</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\02_SoftwareInputPins.hex</v>
+<v>Workspace01\02_SoftwareInputPins\DP8051\DP8051_Keil_951\Debug\02_SoftwareInputPins.map</v>
+<v>Workspace01\02_SoftwareInputPins\02_SoftwareInputPins.gpdsc</v>
 <v>Workspace01\02_SoftwareInputPins\02_SoftwareInputPins.rpt</v>
 <v>Workspace01\02_SoftwareInputPins\02_SoftwareInputPins_timing.html</v>
 </VisibleNodeIds>
