@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|cfb99ae0-85b6-4112-8ac6-c1b2aaa98ce0
+C:\Users\yulian\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|40b15092-d466-43b2-824a-627b9d3f8db1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|d9b8d622-6078-4d34-a116-94cf7b062b86
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|0e8571ad-b4e6-4d3d-9115-a706faaa864d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|57e98c3c-8505-40cc-b489-86dd4fdb6e98
+C:\Users\yulian\Documents\Github\PSoC101_Jaunt\Workspace01\01_SoftwareOutputPins.cydsn\01_SoftwareOutputPins.cyprj|5742e920-d532-4639-a028-f5f467a49efc
