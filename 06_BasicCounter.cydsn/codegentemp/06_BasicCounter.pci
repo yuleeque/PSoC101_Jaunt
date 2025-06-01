@@ -1,0 +1,12 @@
+# 06_BasicCounter
+# 2025-06-01 17:05:08Z
+
+# IO_0@[IOP=(1)][IoId=(0)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 0
+# IO_1@[IOP=(1)][IoId=(1)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 1
+# IO_3@[IOP=(1)][IoId=(3)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 3
+set_io "Pin_RED(0)" iocell 6 2
+set_io "Pin_SW2(0)" iocell 6 1
+set_io "Pin_RED2(0)" iocell 6 3

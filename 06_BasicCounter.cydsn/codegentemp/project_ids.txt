@@ -1,0 +1,12 @@
+C:\Users\yulian\Documents\Github\PSoC101_Jaunt\01_SoftwareOutputPins.cydsn\01_SoftwareOutputPins.cyprj|90397a0c-fa33-435d-a4ff-26ba6afe0d35
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|9daaa866-754f-4f1f-be69-5999d82cec9a
+C:\Users\yulian\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|90be7713-ba61-4aa4-ae41-f7d70f32165c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|fcd2a0a5-98ba-4c1b-ab28-ef512b5992bb
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|737d79d2-5aed-4949-afae-c5239999491b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|26ec69fc-4ac0-4fef-a374-ef3f496ae76d
+C:\Users\yulian\Documents\Github\PSoC101_Jaunt\02_SoftwareInputPins.cydsn\02_SoftwareInputPins.cyprj|b06e7765-5c9f-4b3a-b096-2d2c1cf12aad
+C:\Users\yulian\Documents\Github\PSoC101_Jaunt\03_Interrupts.cydsn\03_Interrupts.cyprj|b2904510-709c-4c18-9e54-46b407500f3a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|59909a4a-031a-4d50-a7c5-e99c167f9ffd
+C:\Users\yulian\Documents\Github\PSoC101_Jaunt\04_HardwarePins.cydsn\04_HardwarePins.cyprj|1edf5dfe-91b5-4f26-9bf3-bac1e2dbf809
+C:\Users\yulian\Documents\Github\PSoC101_Jaunt\05_ToggleFlipFlop.cydsn\05_ToggleFlipFlop.cyprj|6f8edb8a-a0e9-4625-85b4-fc4ca3ed7b78
+C:\Users\yulian\Documents\Github\PSoC101_Jaunt\06_BasicCounter.cydsn\06_BasicCounter.cyprj|ff2f3201-bbe5-4ba5-a3af-e027b8c85142
