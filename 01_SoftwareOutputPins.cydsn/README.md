@@ -1,4 +1,3 @@
-# PSoC101_Jaunt
- A pleasure trip through PSoC 101 course by Cypress (acquired by Infineon Technologies)
+demo
 
-Target device: CY8C3866AXI-040
+![demo](01_SoftwareOutputPins.mp4)
