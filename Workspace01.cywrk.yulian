@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Workspace01\03_Interrupts\TopDesign">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Workspace01\04_HardwarePins\Source Files\main.c">
 <ExpandedNodeIds>
 <v>Workspace01</v>
 <v>Workspace01\01_SoftwareOutputPins\TopDesign</v>
@@ -46,7 +46,6 @@
 <v>Workspace01\02_SoftwareInputPins\Source Files\main.c</v>
 <v>Workspace01\02_SoftwareInputPins\Generated_Source</v>
 <v>Workspace01\02_SoftwareInputPins\Generated_Source\PSoC3</v>
-<v>Workspace01\03_Interrupts</v>
 <v>Workspace01\03_Interrupts\TopDesign</v>
 <v>Workspace01\03_Interrupts\03_Interrupts.cydwr</v>
 <v>Workspace01\03_Interrupts\03_Interrupts.cydwr\Pins</v>
@@ -64,47 +63,65 @@
 <v>Workspace01\03_Interrupts\Source Files\main.c</v>
 <v>Workspace01\03_Interrupts\Generated_Source</v>
 <v>Workspace01\03_Interrupts\Generated_Source\PSoC3</v>
+<v>Workspace01\04_HardwarePins</v>
+<v>Workspace01\04_HardwarePins\TopDesign</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\Pins</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\Analog</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\Clocks</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\Interrupts</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\DMA</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\System</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\Directives</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\Flash Security</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\EEPROM</v>
+<v>Workspace01\04_HardwarePins\Header Files</v>
+<v>Workspace01\04_HardwarePins\Header Files\cyapicallbacks.h</v>
+<v>Workspace01\04_HardwarePins\Source Files</v>
+<v>Workspace01\04_HardwarePins\Source Files\main.c</v>
+<v>Workspace01\04_HardwarePins\Generated_Source</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>Workspace01</v>
 <v>Workspace01\01_SoftwareOutputPins</v>
 <v>Workspace01\02_SoftwareInputPins</v>
 <v>Workspace01\03_Interrupts</v>
-<v>Workspace01\03_Interrupts\TopDesign</v>
-<v>Workspace01\03_Interrupts\03_Interrupts.cydwr</v>
-<v>Workspace01\03_Interrupts\03_Interrupts.cydwr\Pins</v>
-<v>Workspace01\03_Interrupts\03_Interrupts.cydwr\Analog</v>
-<v>Workspace01\03_Interrupts\03_Interrupts.cydwr\Clocks</v>
-<v>Workspace01\03_Interrupts\03_Interrupts.cydwr\Interrupts</v>
-<v>Workspace01\03_Interrupts\03_Interrupts.cydwr\DMA</v>
-<v>Workspace01\03_Interrupts\03_Interrupts.cydwr\System</v>
-<v>Workspace01\03_Interrupts\03_Interrupts.cydwr\Directives</v>
-<v>Workspace01\03_Interrupts\03_Interrupts.cydwr\Flash Security</v>
-<v>Workspace01\03_Interrupts\03_Interrupts.cydwr\EEPROM</v>
-<v>Workspace01\03_Interrupts\Header Files</v>
-<v>Workspace01\03_Interrupts\Header Files\cyapicallbacks.h</v>
-<v>Workspace01\03_Interrupts\Source Files</v>
-<v>Workspace01\03_Interrupts\Source Files\main.c</v>
-<v>Workspace01\03_Interrupts\Generated_Source</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cy_boot</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\Em_EEPROM_Dynamic</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\Pin_RED</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\Pin_SW2</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\Pin_SW2_Int</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cycodeshareexport.ld</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cycodeshareimport.ld</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cycodeshareimport.scat</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cydevice.h</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cydevice_trm.h</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cydevicekeil.inc</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cydevicekeil_trm.inc</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cydisabledsheets.h</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cyfitter.h</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cyfitter_cfg.c</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cyfitter_cfg.h</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\cyfitterkeil.inc</v>
-<v>Workspace01\03_Interrupts\Generated_Source\PSoC3\project.h</v>
+<v>Workspace01\04_HardwarePins</v>
+<v>Workspace01\04_HardwarePins\TopDesign</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\Pins</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\Analog</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\Clocks</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\Interrupts</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\DMA</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\System</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\Directives</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\Flash Security</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.cydwr\EEPROM</v>
+<v>Workspace01\04_HardwarePins\Header Files</v>
+<v>Workspace01\04_HardwarePins\Header Files\cyapicallbacks.h</v>
+<v>Workspace01\04_HardwarePins\Source Files</v>
+<v>Workspace01\04_HardwarePins\Source Files\main.c</v>
+<v>Workspace01\04_HardwarePins\Generated_Source</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cy_boot</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\Em_EEPROM_Dynamic</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\Pin_RED</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\Pin_SW2</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cycodeshareexport.ld</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cycodeshareimport.ld</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cycodeshareimport.scat</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cydevice.h</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cydevice_trm.h</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cydevicekeil.inc</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cydevicekeil_trm.inc</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cydisabledsheets.h</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cyfitter.h</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cyfitter_cfg.c</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cyfitter_cfg.h</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\cyfitterkeil.inc</v>
+<v>Workspace01\04_HardwarePins\Generated_Source\PSoC3\project.h</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -119,6 +136,9 @@
 <v>Workspace01\03_Interrupts</v>
 <v>Workspace01\03_Interrupts\TopDesign</v>
 <v>Workspace01\03_Interrupts\TopDesign\TopDesign.cysch</v>
+<v>Workspace01\04_HardwarePins</v>
+<v>Workspace01\04_HardwarePins\TopDesign</v>
+<v>Workspace01\04_HardwarePins\TopDesign\TopDesign.cysch</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>Workspace01</v>
@@ -131,6 +151,9 @@
 <v>Workspace01\03_Interrupts</v>
 <v>Workspace01\03_Interrupts\TopDesign</v>
 <v>Workspace01\03_Interrupts\TopDesign\TopDesign.cysch</v>
+<v>Workspace01\04_HardwarePins</v>
+<v>Workspace01\04_HardwarePins\TopDesign</v>
+<v>Workspace01\04_HardwarePins\TopDesign\TopDesign.cysch</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -212,6 +235,31 @@
 <v>Workspace01\03_Interrupts\03_Interrupts.gpdsc</v>
 <v>Workspace01\03_Interrupts\03_Interrupts.rpt</v>
 <v>Workspace01\03_Interrupts\03_Interrupts_timing.html</v>
+<v>Workspace01\04_HardwarePins</v>
+<v>Workspace01\04_HardwarePins\DP8051</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\CyBootAsmKeil.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\CyDmac.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\CyFlash.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\CyLib.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\cymem.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\cyPm.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\CySpc.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\cyutils.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\KeilStart.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\main.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\Pin_RED.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\Listing Files\Pin_SW2.lst</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\04_HardwarePins.elf</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\04_HardwarePins.hex</v>
+<v>Workspace01\04_HardwarePins\DP8051\DP8051_Keil_951\Debug\04_HardwarePins.map</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.gpdsc</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins.rpt</v>
+<v>Workspace01\04_HardwarePins\04_HardwarePins_timing.html</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>Workspace01</v>
@@ -324,6 +372,18 @@
 <v>Workspace01\03_Interrupts\Power_v1_0.pdf</v>
 <v>Workspace01\03_Interrupts\Resistor_v1_0.pdf</v>
 <v>Workspace01\03_Interrupts\SwitchSPST_v1_0.pdf</v>
+<v>Workspace01\04_HardwarePins</v>
+<v>Workspace01\04_HardwarePins\PSoC 3 Architecture TRM</v>
+<v>Workspace01\04_HardwarePins\CY8C38 Family Datasheet</v>
+<v>Workspace01\04_HardwarePins\System Reference Guides</v>
+<v>Workspace01\04_HardwarePins\System Reference Guides\cy_boot_v6_0</v>
+<v>Workspace01\04_HardwarePins\cy_pins_v2_20</v>
+<v>Workspace01\04_HardwarePins\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Workspace01\04_HardwarePins\Gnd_v1_0.pdf</v>
+<v>Workspace01\04_HardwarePins\LED_v1_0.pdf</v>
+<v>Workspace01\04_HardwarePins\Power_v1_0.pdf</v>
+<v>Workspace01\04_HardwarePins\Resistor_v1_0.pdf</v>
+<v>Workspace01\04_HardwarePins\SwitchSPST_v1_0.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>Workspace01</v>
@@ -359,6 +419,18 @@
 <v>Workspace01\03_Interrupts\Power_v1_0.pdf</v>
 <v>Workspace01\03_Interrupts\Resistor_v1_0.pdf</v>
 <v>Workspace01\03_Interrupts\SwitchSPST_v1_0.pdf</v>
+<v>Workspace01\04_HardwarePins</v>
+<v>Workspace01\04_HardwarePins\PSoC 3 Architecture TRM</v>
+<v>Workspace01\04_HardwarePins\CY8C38 Family Datasheet</v>
+<v>Workspace01\04_HardwarePins\System Reference Guides</v>
+<v>Workspace01\04_HardwarePins\System Reference Guides\cy_boot_v6_0</v>
+<v>Workspace01\04_HardwarePins\cy_pins_v2_20</v>
+<v>Workspace01\04_HardwarePins\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Workspace01\04_HardwarePins\Gnd_v1_0.pdf</v>
+<v>Workspace01\04_HardwarePins\LED_v1_0.pdf</v>
+<v>Workspace01\04_HardwarePins\Power_v1_0.pdf</v>
+<v>Workspace01\04_HardwarePins\Resistor_v1_0.pdf</v>
+<v>Workspace01\04_HardwarePins\SwitchSPST_v1_0.pdf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>

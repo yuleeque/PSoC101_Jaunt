@@ -1,0 +1,24 @@
+(DELAYFILE
+ (SDFVERSION "IEEE 1497 4.0")
+ (DATE "2025-06-01T16:26:05Z")
+ (DESIGN "04_HardwarePins")
+ (VENDOR "Cypress Semiconductor")
+ (PROGRAM "PSoC Creator")
+ (VERSION " 4.4")
+ (DIVIDER .)
+ (TIMESCALE 1 ns)
+ (CELL
+  (CELLTYPE "04_HardwarePins")
+  (INSTANCE *)
+  (DELAY
+   (ABSOLUTE
+    (INTERCONNECT ClockBlock.clk_bus_glb Pin_SW2\(0\).in_clock (0.000:0.000:0.000))
+    (INTERCONNECT Pin_SW2\(0\).fb Pin_RED\(0\).pin_input (2.656:2.656:2.656))
+    (INTERCONNECT Pin_RED\(0\).pad_out Pin_RED\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT Pin_RED\(0\).pad_out Pin_RED\(0\)_PAD (0.000:0.000:0.000))
+    (INTERCONNECT Pin_RED\(0\)_PAD Pin_RED\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT Pin_SW2\(0\)_PAD Pin_SW2\(0\).pad_in (0.000:0.000:0.000))
+   )
+  )
+ )
+)
